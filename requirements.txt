@@ -1,0 +1,7 @@
+biopython
+intermine
+pandas
+matplotlib
+copy
+Python.display
+
